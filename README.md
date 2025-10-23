@@ -1,0 +1,1 @@
+1000 Mixed Fundus Images from eight different datasets i.e Drishti, ACRIMA, ORIGA, LAG, G1020, RIM ONE, Hillel Yaffe and Refuge
